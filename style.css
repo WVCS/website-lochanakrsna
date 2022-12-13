@@ -1,3 +1,31 @@
 body {
-
+ background-color:#c693;
+}
+h2{
+  color:#d239;
+    font-size:200%;
+  letter-spacing:4px;
+  text-decoration: underline;
+}
+img{
+  border: dashed #d239 12px;
+}
+ul{
+  list-style-type: none;
+  text-alin: left;
+  position: fixed;
+}
+li {
+  float: left;
+}
+li a{
+  padding: 50px;
+  font-family:;
+  border-style: dashed;
+  color:#d239;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: #c693;
+  color: white;
 }
