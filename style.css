@@ -1,14 +1,15 @@
-body {
- background-color:#c693;
+body{
+  background-color: #C9ADA7;
 }
 h2{
-  color:#d239;
-    font-size:200%;
-  letter-spacing:4px;
-  text-decoration: underline;
+  color:#F2E9E4;
+    font-size:275%;
+  font-family: 'Shrikhand', cursive;
+  letter-spacing:2px;
+  text-decoration: ;
 }
 img{
-  border: dashed #d239 12px;
+  border: dashed #B5838D 12px;
 }
 ul{
   list-style-type: none;
@@ -19,13 +20,17 @@ li {
   float: left;
 }
 li a{
-  padding: 50px;
-  font-family:;
+  padding: 5px;
+  font-family: 'Shrikhand', cursive;
   border-style: dashed;
-  color:#d239;
+  color:#4A4E69;
   text-decoration-line: none;
 }
 li a:hover{
-  background-color: #c693;
+  background-color: #9A8C98;
   color: white;
+}
+p{
+  font-family: 'Shrikhand', cursive;
+  color:#4A4E69;
 }
