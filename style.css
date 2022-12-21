@@ -9,7 +9,8 @@ h2{
   text-decoration: ;
 }
 img{
-  border: dashed #B5838D 12px;
+  border: dashed #9A8C98 12px;
+  padding: 5px;
 }
 ul{
   list-style-type: none;
